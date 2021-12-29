@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:fa709a,100:6e45e2&height=300&section=header&text=Inhye's%20Git%20Hub&fontSize=55&fontAlignY=38&animation=fadeIn&desc=To%20become%20a%20better%20developer.&descAlignY=51&descAlign=57&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=300&section=header&text=Inhye's%20Git%20Hub&fontSize=55&fontAlignY=38&animation=fadeIn&desc=To%20become%20a%20better%20developer.&descAlignY=51&descAlign=57&fontColor=FFFFFF)
   
 ## ✨ About me
 - Junior Front-end Developer
