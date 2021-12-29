@@ -6,8 +6,6 @@
   
 ## ⚒ Stack ⚒  
 ![HTML](https://img.shields.io/badge/HTML-F16529?style=flat-square&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-33AADD?style=flat-square&logo=CSS3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![React](https://img.shields.io/badge/React.js-53C1DE?style=flat-square&logo=React&logoColor=white)
-  
-![HTML](https://img.shields.io/badge/HTML-F16529?style=flat-square&logo=HTML5&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/React.js-53C1DE?style=flat-square&logo=React&logoColor=white)
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
