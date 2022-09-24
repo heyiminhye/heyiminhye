@@ -9,6 +9,7 @@ I'm a Front-end Developer
 ![CSS](https://img.shields.io/badge/CSS-33AADD?style=flat-square&logo=CSS3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-53C1DE?style=flat-square&logo=React&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-3399FF?style=flat-square&logo=Flutter&logoColor=white)
 <br />
 
 ![Git](https://img.shields.io/badge/Git-F16529?style=flat-square&logo=Git&logoColor=white)
